@@ -1,0 +1,50 @@
+<html>
+
+<head>
+
+<title>Mi primera pagina Jose Salgado </title>
+
+</head>
+
+<body bgcolor="#000000" background="Pagina web/Fondoo.jpg" text="#000000">
+
+<center><h1><font face=insaniburger>El rincon de José</font></h1> <br></center>
+<center><h3><u><font face=Arial>Bienvenidos a mi página</font></u></h3> <br></center>
+
+<hr NOSHADE WIDTH=100% SIZE=4>
+
+<b><h4><font face=Arial>Aquí veran varios temas de interes general, en esta ocacion, veremos el ejercicio</font></h4></b>
+<b><font face=Arial>¿Qué es el ejercicio y por que no hacemos muy seguido?</font><br><b>
+
+<img src="Pagina web/Ejercicio.png" width=300 heig=100 align="right"> 
+
+<p align=justify>
+<font face=Arial>Es una actividad planificada, estructurada y repetitiva, cuyo fin es mantener y mejorar nuestra forma física; entendiendo por forma física el nivel de energía y vitalidad que nos permite llevar a cabo las tareas cotidianas habituales, disfrutando activamente de nuestro ocio, disminuyendo las enfermedades derivadas de la falta de actividad física y desarrollando al máximo nuestra capacidad intelectual.</font>
+</p>
+
+<p align=justify>
+<font face=Arial>Por norma general y en todas las edades, el introducir el ejercicio físico de una forma regular en nuestra vida cotidiana no siempre nos resulta fácil. Esto es debido a múltiples factores como son: la velocidad con que vivimos, la utilización del coche o moto, estamos sentados la mayor parte del día viendo televisión o con los vídeo juegos... Las comodidades con las que vivimos hacen que veamos el ejercicio físico como algo muy duro, y nos inventemos excusas como "no tengo tiempo" o "estoy cansada/o"...</font>
+<p/p>
+
+
+<blockquote> <center>
+<font size="5" color="#000000" face=Times New Roman>
+"El ejercicio debe ser la combinación entre felicidad y movimiento,José Salgado,2020"
+</font>
+</blockquote> </center>
+
+<center>
+<a href="Tablas.html"><img src="Pagina_web/Atras.png" alt="Atras" width="100" heig="100"> 
+</a>
+
+<img src="Pagina web/Arriba.png" width=100 heig=100> 
+
+<a href="https://mx.hola.com/estar-bien/galeria/20200520168320/ejercicios-para-adelgazar-en-20-minutos/1/">
+<img src="Pagina web/Adelante.png" width=100 heig=100> 
+</a>
+</center>
+
+</body>
+
+
+</html>
